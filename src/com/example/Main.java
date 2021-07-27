@@ -1,5 +1,7 @@
 package com.example;
 
+import com.example.ShapeFactories.ShapeFactory;
+
 public class Main {
 
     public static void main(String[] args) {

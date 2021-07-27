@@ -1,4 +1,9 @@
-package com.example;
+package com.example.ShapeFactories;
+
+import com.example.Shape;
+import com.example.Shapes.Circle;
+import com.example.Shapes.Rectangle;
+import com.example.Shapes.Triangle;
 
 public class ShapeFactory {
 

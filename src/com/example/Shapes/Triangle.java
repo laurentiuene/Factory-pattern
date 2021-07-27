@@ -1,4 +1,6 @@
-package com.example;
+package com.example.Shapes;
+
+import com.example.Shape;
 
 public class Triangle implements Shape {
 
